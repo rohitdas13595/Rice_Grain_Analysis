@@ -23,6 +23,8 @@ jupyter:
 
 
 # Paddy classification
+- Here the notebooks take you through rice grain counting and classification of rice grain images based on their status.
+-----
 <h1 align="center">Hi 👋, I'm Rohit Kumar Das</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
